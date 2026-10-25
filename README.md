@@ -33,7 +33,7 @@ Esta plantilla es ideal para:
 
 ## Cómo Descargar la Plantilla de DNI Peruano 2025
 
-Sigue estos pasos para descargar la plantilla:
+Sigue estos pasos para descargar la plantilla:.......
 
 1. Haz clic en el siguiente enlace: [Descargar Plantilla DNI Peruano 2025](#).
 2. Elige el formato que prefieras: PDF o PNG.
